@@ -2,7 +2,7 @@
 Install and configure Zimbra server &amp; client under the 3 rd year 1 st sem Network Design &amp; Management Module  
 Install and configure Zimbra server & client
 Objectives:
-Your main objective is to install and configure Zimbra mail server and CentOS email client
+ main objective is to install and configure Zimbra mail server and CentOS email client
 (Evolution) in an implemented Enterprise Network.
 All the configurations must be done under CentOS environment.
 Please refer to the following guide lines,
